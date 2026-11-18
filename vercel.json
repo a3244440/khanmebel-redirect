@@ -1,1 +1,1 @@
-{"redirects":[{"source":"/:path*","destination":"https://khanmebel.kz/:path*","permanent":true}]}
+{"redirects":[{"source":"/","destination":"https://khanmebel.kz/","permanent":true},{"source":"/:path+","destination":"https://khanmebel.kz/:path+","permanent":true}]}
